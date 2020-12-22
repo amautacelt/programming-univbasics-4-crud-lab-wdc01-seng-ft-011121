@@ -44,5 +44,6 @@ end
 
 def update_element_from_index(array, index_number, element)
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
-  array[4]
+  array[4] = "practicing"
+  array
 end
